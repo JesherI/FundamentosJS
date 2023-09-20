@@ -8,7 +8,7 @@ html {
   }
   
   body {
-    font-family: 'Epilogue', sans-serif;
+    font-family: sans-serif;
     background: #92cdc3;
     height: 100vh;
     display: flex;
