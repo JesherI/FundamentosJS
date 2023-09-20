@@ -9,7 +9,7 @@ function wrapping(gifts) {
   return gifts.map(gift => {
     const tapas = '*'.repeat(gift.length + 2);
     return `${tapas} \n*${gift}*\n${tapas}`;
-  })
+  });
 }
 
 const gifts = ['cat', 'game', 'socks']

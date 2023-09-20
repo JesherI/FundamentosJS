@@ -7,7 +7,7 @@ function distributeGifts(packOfGifts, reindeers) {
     console.log(numberRegalos);
     console.log(pesoregalos);
     console.log(reindeers);
-    console.log(numRenos);
+    console.log(pesoRenos);
     return Math.floor(pesoRenos / pesoregalos);
 }
 
